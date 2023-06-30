@@ -7,3 +7,7 @@ You can see the ipelets path in Show configuration in ipe's Help menu.
 
 ## Line through 2 points
 This ipelet needs a selection of two marks or a single segment. It adds a line (bounded by the drawing canvas) through the 2 marks/the 2 endpoints of the segment.
+
+## Line arrangement from points
+This ipelet needs a selection of at least two marks. For every pair of marks from the selection it draws a line (bounded by the drawing canvas) through the 2 marks.
+All lines will be grouped.
